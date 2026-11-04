@@ -7,7 +7,7 @@ window.SOPA_CONFIG = {
   "course": "Introducción al Cálculo",
   "courseShort": "Intro",
   "institutionalDomain": "ufide.ac.cr",
-  "scriptUrl": "https://script.google.com/macros/s/AKfycbzlS2O0D6K34VPmVyk__eMbQr4Q0gmy2s2I3iX5V3wMn3CG_bJ_Sok6Ke72Kvs_LyCy/exec",
+  "scriptUrl": "https://script.google.com/macros/s/AKfycbwzxxz3wCe4UfJDgrmXDIXHioIVbl9rdqm8Jlc14a6GKbwgJfldnaQ_ucJpNSqo95da/exec",
   "durationMinutes": 60,
   "wordsPerStudent": 10,
   "gridSize": 20,
